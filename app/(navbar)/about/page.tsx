@@ -1,6 +1,8 @@
 const About: React.FC=()=>{
     return (
-        <h1>About Page</h1>
+        <div className="container flex items-center justify-center">
+            <h1 className="p-10">About Page</h1>
+        </div>
     )
 }
 
